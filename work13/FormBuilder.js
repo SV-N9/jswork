@@ -42,7 +42,7 @@
                 for (var k in option) {
                     html += '<option value="' + k + '">' + option[k] + '</option>';
                 }
-                return '<select ' + attr +'>' + html + '</select>';
+                return '<select ' + attr +'>' + html + '<lect>';
             },
             textarea: function(attr) {
                 return '<textarea ' + attr + '></textarea>';
