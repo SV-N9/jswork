@@ -1,0 +1,10 @@
+.progress {
+    display: inline-block;
+    width: 200px;
+    height: 8px;
+    border-radius: 4px;
+    border: 1px sold #ccc;
+    line-height: 4px;
+    margin-right: 5px;
+    padding: 2px;
+}
